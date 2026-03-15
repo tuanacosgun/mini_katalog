@@ -1,6 +1,6 @@
 # 🛍 Mini Katalog Uygulaması
 
-Flutter ile geliştirilmiş, eğitim amaçlı basit bir mobil katalog uygulaması.
+Flutter ile geliştirilmiş, eğitim amaçlı basit bir mobil katalog uygulaması. Version:(Flutter 3.41.3)
 
 ---
 
