@@ -48,9 +48,8 @@ lib/
 
 | Araç | Versiyon |
 |------|----------|
-| Flutter SDK | 3.x.x |
-| Dart SDK | 3.x.x |
-| Material Design | 3 |
+| Flutter SDK | 3.41.3|
+| Dart SDK | 3.11.1 |
 
 > **Not:** Ekstra paket kullanılmamıştır. Yalnızca `material.dart` kullanılmıştır.
 
@@ -86,11 +85,7 @@ flutter run
 
 ## 📸 Ekran Görüntüleri
 
-> *Uygulama çalıştırıldıktan sonra screenshot'lar buraya eklenecektir.*
-
-| Ana Sayfa | Ürün Detayı | Sepet |
-|-----------|-------------|-------|
-| ![home](screenshots/home.png) | ![detail](screenshots/detail.png) | ![cart](screenshots/cart.png) |
+> *Ekran görüntüleri "screenshots" dosyasında bulunmaktadır.*
 
 ---
 
